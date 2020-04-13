@@ -1,5 +1,6 @@
 #include "skincoredialog.h"
 #include "ui_skincoredialog.h"
+#include "QRegExpValidator"
 
 skinCoreDialog::skinCoreDialog(QWidget *parent) :
     QDialog(parent),

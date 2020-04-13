@@ -6,6 +6,7 @@
 #include <vector>
 #include "qands.h"
 #include <fstream>
+#include <QRegExpValidator>
 
 using namespace std;
 

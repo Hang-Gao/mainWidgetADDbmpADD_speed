@@ -6,9 +6,9 @@
 #endif
 #include <QtOpenGL/QGLWidget>
 #include <QtOpenGL>
-#include <GL/gl.h>
-#include <GL/glu.h>
-#include <GL/glaux.h>
+#include "OpenGL/GL.H"
+#include "OpenGL/GLU.H"
+#include "OpenGL/GLAUX.H"
 
 
 #include <QtCore>
